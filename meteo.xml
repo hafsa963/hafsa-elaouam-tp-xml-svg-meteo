@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "temperature.dtd">
+<meteo>
+    <mesure date="2024-11-15">
+        <ville nom="EL jadida" temperature="19"/>
+        <ville nom="Mohamedia" temperature="18"/>  
+        <ville nom="Fes" temperature="26"/>
+        <ville nom="Asfi" temperature="20"/>
+        <ville nom="Casablanca" temperature="18"/>
+        <ville nom="Marrakech" temperature="24"/>
+        <ville nom="Tanger" temperature="16"/>
+        <ville nom="Ouarzazzat" temperature="23"/>
+        <ville nom="Laayoune" temperature="25"/>
+    </mesure>
+    <mesure date="2024-11-16">
+        <ville nom="EL jadida" temperature="17"/>
+        <ville nom="Mohamedia" temperature="19"/>  
+        <ville nom="Fes" temperature="23"/>
+        <ville nom="Asfi" temperature="18"/>
+        <ville nom="Casablanca" temperature="17"/>
+        <ville nom="Marrakech" temperature="27"/>
+        <ville nom="Tanger" temperature="18"/>
+        <ville nom="Ouarzazzat" temperature="26"/>
+        <ville nom="Laayoune" temperature="28"/>
+    </mesure>
+</meteo>
+ 
+ 

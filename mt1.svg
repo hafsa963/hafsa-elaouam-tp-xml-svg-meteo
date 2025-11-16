@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+   <line x1="100"
+         y1="100"
+         x2="100"
+         y2="600"
+         stroke="black"
+         stroke-width="2"/>
+   <line x1="100"
+         y1="600"
+         x2="1200"
+         y2="600"
+         stroke="black"
+         stroke-width="2"/>
+   <text stroke="blue" x="120" y="620">EL jadida</text>
+   <rect width="20" height="170" x="120" y="430" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="170"/>
+      <animate attributeName="y" dur="2s" from="600" to="430"/>
+   </rect>
+   <text stroke="blue" x="120" y="430">17C°
+                 </text>
+   <text stroke="blue" x="240" y="620">Mohamedia</text>
+   <rect width="20" height="190" x="240" y="410" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="190"/>
+      <animate attributeName="y" dur="2s" from="600" to="410"/>
+   </rect>
+   <text stroke="blue" x="240" y="410">19C°
+                 </text>
+   <text stroke="blue" x="360" y="620">Fes</text>
+   <rect width="20" height="230" x="360" y="370" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="230"/>
+      <animate attributeName="y" dur="2s" from="600" to="370"/>
+   </rect>
+   <text stroke="blue" x="360" y="370">23C°
+                 </text>
+   <text stroke="blue" x="480" y="620">Asfi</text>
+   <rect width="20" height="180" x="480" y="420" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="180"/>
+      <animate attributeName="y" dur="2s" from="600" to="420"/>
+   </rect>
+   <text stroke="blue" x="480" y="420">18C°
+                 </text>
+   <text stroke="blue" x="600" y="620">Casablanca</text>
+   <rect width="20" height="170" x="600" y="430" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="170"/>
+      <animate attributeName="y" dur="2s" from="600" to="430"/>
+   </rect>
+   <text stroke="blue" x="600" y="430">17C°
+                 </text>
+   <text stroke="blue" x="720" y="620">Marrakech</text>
+   <rect width="20" height="270" x="720" y="330" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="270"/>
+      <animate attributeName="y" dur="2s" from="600" to="330"/>
+   </rect>
+   <text stroke="blue" x="720" y="330">27C°
+                 </text>
+   <text stroke="blue" x="840" y="620">Tanger</text>
+   <rect width="20" height="180" x="840" y="420" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="180"/>
+      <animate attributeName="y" dur="2s" from="600" to="420"/>
+   </rect>
+   <text stroke="blue" x="840" y="420">18C°
+                 </text>
+   <text stroke="blue" x="960" y="620">Ouarzazzat</text>
+   <rect width="20" height="260" x="960" y="340" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="260"/>
+      <animate attributeName="y" dur="2s" from="600" to="340"/>
+   </rect>
+   <text stroke="blue" x="960" y="340">26C°
+                 </text>
+   <text stroke="blue" x="1080" y="620">Laayoune</text>
+   <rect width="20" height="280" x="1080" y="320" fill="pink">
+      <animate attributeName="height" dur="2s" from="0" to="280"/>
+      <animate attributeName="y" dur="2s" from="600" to="320"/>
+   </rect>
+   <text stroke="blue" x="1080" y="320">28C°
+                 </text>
+</svg>
